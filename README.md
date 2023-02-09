@@ -44,7 +44,7 @@ Options :
 
 ## • Installation
 ```
-go install github.com/vsec7/discrot@latest
+go install -v github.com/vsec7/discrot@latest
 ```
 
 ## • Configuration Template
